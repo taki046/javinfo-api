@@ -2,7 +2,7 @@
   - type: web
     name: javinfo-api
     env: docker
-    region: singapore
+    region: oregon, usa
     plan: free
     branch: main
     healthCheckPath: /api/check
